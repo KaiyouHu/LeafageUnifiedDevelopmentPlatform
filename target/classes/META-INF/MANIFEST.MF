@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: LeafageUnifiedDevelopmentPlatform
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: love_paeonia
+Implementation-Vendor-Id: com.cqu
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/LeafageUnifiedDevelopmentPlatform
+Created-By: Maven Integration for Eclipse
+
